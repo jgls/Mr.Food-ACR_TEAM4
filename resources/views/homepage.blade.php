@@ -8,6 +8,8 @@
   <div class="slider-wrapper">
   <div class="slider">
 
+    <p>asd</p>
+
     <div class="slider--item" align="center">
       <image class="imgs_slider" src="images/mfood.jpg" width=1500 height=500 aligh="center">
       
